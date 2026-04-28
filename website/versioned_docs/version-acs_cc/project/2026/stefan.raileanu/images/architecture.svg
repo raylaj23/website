@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1120" height="760" viewBox="0 0 1120 760" style="background:#ffffff;background-color:light-dark(#ffffff,#121212);color-scheme:light dark;font-family:'Times New Roman',serif;">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="695" viewBox="0 0 1120 760" style="background:#ffffff;background-color:light-dark(#ffffff,#121212);color-scheme:light dark;font-family:'Times New Roman',serif;">
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#000" style="fill:light-dark(#000,#fff);"/>
